@@ -16,11 +16,6 @@
 <p>I enjoy developing AI agents to automate my workflows for efficiency.</p>
 <p>Training and fine-tuning agents is my speciality.</p>
 <p>If you're an SME located in the UK, TechLocal has launched a £7.6m fund to help people like you recruit and retain tech talent like me.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenUniversity-Badge_Earned-blueviolet?style=for-the-badge" />
-  </p>
 
 
   <hr />
@@ -36,7 +31,7 @@
 <br/>
       <h2>🚀 History: AI & Game Architecture</h2>
       <p>
-      After my junior year, I decided to explore tech in a way that would be most beneficial to my health. I cut my bad habits and studied work hierarchies, became qualified in Ethical Hacking, Food Hygeine and Mastering systems thinking in practice. I crafted my own development team with minimal storming and maximised performance. And in the end, I pushed a playable build of my student game to market.
+      After my junior year, I decided to explore tech in a way that would be most beneficial to my health. Building apps in <b>Xamarin</b>. Cutting my bad habits and studied work hierarchies, becoming qualified in <b>Ethical Hacking, Food Hygeine</b> and <b>Mastering systems thinking in practice</b>. I crafted my own development team with minimal storming and maximised performance. And in the end, I pushed a playable build of my student game to market.
       </p>      
       <p>
       After graduating, my role was to develop new and existing software in order to satisfy growing company requirements. I introduced Scrum, pushed for short and effective stand-ups, and developed my knowledge for neighbouring languages 
@@ -62,8 +57,11 @@
       <h3>📂 Timeline</h3>
       <ul>
         <li><b>2025-2026</b> <br/> 🎮 <i>Steam Early Access Release</i> <br/>LIBRA:THERE ARE TWO</li>
-        <li><b>2024-2025</b> <br/> 🤖 <i>AI Research/Ethical hacker</i> <br/> Built Agentic Python Pipelines</li>
-        <li><b>⋮</b></li>        
+        
+  <a href="https://store.steampowered.com/app/3381290/LIBRA_There_Are_Two/">
+    <img src="https://store.steampowered.com/app/3381290/LIBRA_There_Are_Two/" width="200"/>
+    </a>
+        <li><b>2024-2025</b> <br/> 🤖 <i>AI Research/Ethical hacker</i> <br/> Built Agentic Python Pipelines</li>      
         <li><b>2020-2024</b> <br/> 🏗️ <i>Self Development Break</i> <br/></li>        
         <li><b>2018-2020</b> <br/> 🏗️ <i>App Developer</i> <br/></li>
         <li><b>2017-2018</b> <br/> 🏗️ <i>Associate Software Programmer</i> <br/></li>
