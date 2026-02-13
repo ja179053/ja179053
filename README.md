@@ -15,10 +15,7 @@
 <p>I enjoy developing AI agents to automate my workflows for efficiency.</p>
 <p>Training and fine-tuning agents is my speciality.</p>
 <p>If you're an SME located in the UK, TechLocal has launched a £7.6m fund to help people like you recruit and retain tech talent like me.</p>
-
-
   <hr />
-
 <table>
   <tr style="vertical-align: top;" align="center">
     <td width="65%">
@@ -30,11 +27,38 @@
 <br/>
       <h2>🚀 History: AI & Game Architecture</h2>
       <p>
+      My AI transition didn't feel like a transition. I studied Unity's ML agents while at university and made chat bots on Discord and Twitch for fun. My main interest has been AI Systems for most of my life. With the rise of LLMs I still prefer fine-tuning checkpoints for local use, giving modern machines a boost for their tailored needs. Whether that is remembering where files are, requiring check-ins, or daily reports, automated LLMs are empowering small work forces to handle many times the workload. The best part of AI is it challenges humans to accomplish more than they believed humanly possible.
+      </p>
+      <p>
       After my junior year, I decided to explore tech in a way that would be most beneficial to my health. Building apps in <b>Xamarin</b>. Cutting my bad habits and studied work hierarchies, becoming qualified in <b>Ethical Hacking, Food Hygeine</b> and <b>Mastering systems thinking in practice</b>. I crafted my own development team with minimal storming and maximised performance. And in the end, I pushed a playable build of my once student game to market.
-      </p>      
-  <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=65604">
-    <img src="assets/Mastering_systems_thinking_in_practice.png"/>
-    </a>
+      </p>
+      <table align="center">
+  <tr>
+    <th colspan="1" align="center"> <font size ="2">
+    Mastering Systems Thinking In Practice 
+    </font></th>
+    <th colspan="2" align="center"> <font size ="2">
+    Ethical Hacking</th>
+    </font></th>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=65604">
+        <img src="assets/Mastering_systems_thinking_in_practice.png" width="100"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://training.fortinet.com/local/staticpage/view.php?page=library_introduction-to-the-threat-landscape">
+        <img src="assets/badge_9b3a946f-be9f-457e-b9e9-6f2eec0f60e8.png" width="100"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://tryhackme.com/p/jamaster18">
+        <img src="assets/phishing.png" width="100"/>
+      </a>
+    </td>
+  </tr>
+</table>
       <p>
       After graduating, my role was to develop new and existing software in order to satisfy growing company requirements. I introduced Scrum, pushed for short and effective stand-ups, and developed my knowledge for neighbouring languages 
       <b>
@@ -63,7 +87,7 @@
     <img src="assets/bluejaylogo.png" width="20"/>
     </a>
         <li><b>2024-2025</b> <br/> 🤖 <i>AI Research/Ethical hacker</i> <br/> Built Agentic Python Pipelines</li>      
-        <li><b>2020-2024</b> <br/> 🏗️ <i>Self Development Break</i> <br/></li>        
+        <li><b>2020-2024</b> <br/> 🏗️ <i>Independent Research & Development Phase</i> <br/></li>        
         <li><b>2018-2020</b> <br/> 🏗️ <i>App Developer</i> <br/></li>
         <li><b>2017-2018</b> <br/> 🏗️ <i>Associate Software Programmer</i> <br/></li>
   <a href="https://www.richmondpharmacology.com">
@@ -96,11 +120,13 @@
         Yesterday felt normal. Today, the balance is gone. In <b>LIBRA: There Are Two</b>, a routine day unravels into a creeping horror where everybody is simply gone. You’re not just trying to escape; you’re exploring a world that stopped making sense, fighting for every inch of ground, and desperately trying to restore what once was.
       </p>
 </a>
+---
+
+<div align="center">
+  <p>Interested in the architecture behind the systems? The <b>LIBRA</b> repository is fully documented, featuring clean-code practices, system diagrams, and modular logic.</p>
+  
+  <a href="https://github.com/ja179053/LIBRA/">
+    <img src="https://img.shields.io/badge/Explore%20the%20Codebase-Blue?style=for-the-badge&logo=github&logoColor=white" alt="Explore Codebase" />
+  </a>
+</div>
 <br/>
-<p style="Title">Ethical Hacking</p>
-  <a href="https://training.fortinet.com/local/staticpage/view.php?page=library_introduction-to-the-threat-landscape">
-    <img src="assets/badge_9b3a946f-be9f-457e-b9e9-6f2eec0f60e8.png" width="200"/>
-    </a>
-  <a href="https://tryhackme.com/p/jamaster18">
-    <img src="assets/phishing.png" width="200"/>
-    </a>
