@@ -1,17 +1,17 @@
-
 <!--![Theme](./theme.svg)-->
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=JJ+AMPONSAH%20%7C%20SOFTWARE%20DEVELOPER&fontSize=40&animation=fadeIn" />
-  <div align="center">
-</div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=JJ+AMPONSAH;AI+AUTOMATION+SPECIALIST;SYSTEMS+STRATEGIST+2026;GAME+DEVELOPER" alt="Typing SVG" />
-<div align="left">
+<div align="center">
   <img src="https://pixel-profile.vercel.app/api/github-stats?username=ja179053&theme=crt&pixelate_avatar=true" width="400" />
 </div>
 <a href="mailto:ja179053@falmouth.ac.uk?subject=Inquiry%20regarding%20Softwares%20Development%20role">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&text=%5B%20AVAILABLE%20FOR%20HIRE%20%5D&fontSize=25&fontAlignY=50&fontColor=00FF7F&animation=twinkling" />
 </a>
+  
+  <!--
+  [STEAM GAMES](#LIBRA) | [TIMELINE](#timeline)
+  -->
 <p>I enjoy developing AI agents to automate my workflows for efficiency.</p>
 <p>Training and fine-tuning agents is my speciality.</p>
 <p>If you're an SME located in the UK, TechLocal has launched a £7.6m fund to help people like you recruit and retain tech talent like me.</p>
@@ -83,26 +83,41 @@
       <h3>📂 Timeline</h3>
       <ul>
         <li><b>2025-2026</b> <br/> 🎮 <i>Steam Early Access Release</i> <br/>LIBRA:THERE ARE TWO</li>
-  <a href="https://store.steampowered.com/app/3381290/LIBRA_There_Are_Two/">
-    <img src="assets/bluejaylogo.png" width="20"/>
-    </a>
-        <li><b>2024-2025</b> <br/> 🤖 <i>AI Research/Ethical hacker</i> <br/> Built Agentic Python Pipelines</li>      
+        <a href="https://store.steampowered.com/app/3381290/LIBRA_There_Are_Two/">
+        <img src="assets/bluejaylogo.png" width="20"/>
+        </a>
+        <li><b>2024-2025</b> <br/> 🤖 <i>AI Research/Ethical hacker</i> <br/> Built Agentic Python Pipelines</li>
+        <br/>
+        <i>Python, Batch, HTML, BASIC, Java</i>
+        <br/>
+        <i>.NET/VMs</i>
         <li><b>2020-2024</b> <br/> 🏗️ <i>Independent Research & Development Phase</i> <br/></li>        
         <li><b>2018-2020</b> <br/> 🏗️ <i>App Developer</i> <br/></li>
+        <i>C#, javascript, CSS, HTML, Java</i>
+        <i>Xamarin/.NET MAUI/Azure/AWS/.NET/Cloud Computing</i>
         <li><b>2017-2018</b> <br/> 🏗️ <i>Associate Software Programmer</i> <br/></li>
-  <a href="https://www.richmondpharmacology.com">
-    <img src="assets/richmond_logo.png" width="20"/>
-    </a>
+        <a href="https://www.richmondpharmacology.com">
+        <img src="assets/richmond_logo.png" width="20"/>
+        </a>
+        <br/>
+        <i>C#, javascript, CSS, HTML, BASIC</i>
+        <br/>
+        <i>.NET/VMs</i>
         <li><b>2014-2017</b> <br/> 🎓 <i>Education</i> <br/> BA (Hons) Digital Games: Programming</li>
         <div align="center">
-  <a href="https://www.falmouth.ac.uk/study/undergraduate/game-development">
-    <img src="assets/falmouth_university.jpeg" width="20">
-  </a>
-</div>
+          <a href="https://www.falmouth.ac.uk/study/undergraduate/game-development">
+            <img src="assets/falmouth_university.jpeg" width="20">
+          </a>
+          <i>C#, C++, Git</i>
+          <br/>
+          <i>Unity, Unreal, Blender, ML Agents</i>
+        </div>
       </ul>
     </td>
   </tr>
 </table>
+
+## LIBRA
   <a href="https://store.steampowered.com/app/3381290/LIBRA_There_Are_Two/">
 <img src="assets/title1.png" width="100%" alt="Comparison 2015 to 2025" />
 <table border="0">
@@ -123,7 +138,7 @@
 ---
 
 <div align="center">
-  <p>Interested in the architecture behind the systems? The <b>LIBRA</b> repository is fully documented, featuring clean-code practices, system diagrams, and modular logic.</p>
+  <p>Interested in the architecture behind the systems? Want to know more about game development? The <b>LIBRA</b> repository is being fully documented, featuring clean-code practices, system diagrams, and modular logic. Click here for all the latest behind the scenes updates!</p>
   
   <a href="https://github.com/ja179053/LIBRA/">
     <img src="https://img.shields.io/badge/Explore%20the%20Codebase-Blue?style=for-the-badge&logo=github&logoColor=white" alt="Explore Codebase" />
