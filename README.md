@@ -15,6 +15,7 @@
 <p>I enjoy developing AI agents to automate my workflows for efficiency.</p>
 <p>Training and fine-tuning agents is my speciality.</p>
 <p>If you're an SME located in the UK, TechLocal has launched a £7.6m fund to help people like you recruit and retain tech talent like me.</p>
+<a href="https://github.com/ja179053/ollama">Check out a basic Ollama project here!</a>
   <hr />
 <table>
   <tr style="vertical-align: top;" align="center">
